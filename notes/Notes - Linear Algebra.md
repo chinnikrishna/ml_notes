@@ -1,7 +1,7 @@
 ---
 title: Notes - Linear Algebra
 created: '2019-08-23T03:07:31.693Z'
-modified: '2019-08-26T02:14:25.824Z'
+modified: '2019-08-26T02:20:33.934Z'
 ---
 
 # Notes - Linear Algebra
@@ -27,4 +27,7 @@ Eg a~1~ v~1~ + a~2~ v~2~ + ..... a~n~ v~n~ for a list of length n in a vector sp
 3. If the span of list of vectors is equal to vector space then we say that list spans the vector space, i.e., every vector in this
 vector space can be written as a linear combination of vectors in the list.
 E.g  Span [(1, 0), (0, 1)] spans F^2^
+4. A vector space is called __Finite Dimensional Vector Space__ if some list of vectors in it spans the vector space.
+5. __Linear Independence__
+
 
